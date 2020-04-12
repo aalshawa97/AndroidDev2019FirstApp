@@ -2,5 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
+        <attr android:name="circleColor" android:format="color" />
+        <attr android:name="circleLabel" android:format="string"></attr>
+        <attr android:name="labelColor"  android:format="color"></attr>
 </LinearLayout>
+
